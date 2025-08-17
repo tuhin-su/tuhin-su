@@ -77,26 +77,26 @@ whoami() {
 ## 🔥 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tuhin-su&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuhin-su&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuhin-su&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=tuhin-su&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
 ---
 
 ## 📈 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tuhin-su&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 </div>
 
 ---
@@ -190,9 +190,9 @@ class CurrentFocus:
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen&style=for-the-badge)
-[![Years Badge](https://badges.pufler.dev/years/YOUR_USERNAME?style=for-the-badge&color=blue&logo=github)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/YOUR_USERNAME?style=for-the-badge&color=blue&logo=github)](https://badges.pufler.dev)
+![Profile Views](https://komarev.com/ghpvc/?username=tuhin-su&color=brightgreen&style=for-the-badge)
+[![Years Badge](https://badges.pufler.dev/years/tuhin-su?style=for-the-badge&color=blue&logo=github)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/tuhin-su?style=for-the-badge&color=blue&logo=github)](https://badges.pufler.dev)
 
 </div>
 
