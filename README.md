@@ -1,4 +1,4 @@
-# 🚀 Hey there! I'm [Your Name] 
+# 🚀 Hey there! I'm Tuhin
 
 <div align="center">
   
