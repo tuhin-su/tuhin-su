@@ -39,6 +39,7 @@ currently   :
   - Building custom .NET framework (Stacher)
   - Exploring Rust for systems programming
   - Studying Zero-Trust security models
+  - Cracking CTFs & active on TryHackMe & HTB
 
 open_to     : Collaboration · Open Source · Consulting
 ```
@@ -291,6 +292,22 @@ Frontend / React       [██████████████░░░░�
 
 ---
 
+## `$ route -n security-profiles`
+
+<div align="center">
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/tuhin)
+&nbsp;
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://hackthebox.com/u/lazyXknight)
+&nbsp;
+[![OverTheWire](https://img.shields.io/badge/OverTheWire-000000?style=for-the-badge&logo=linux&logoColor=white)](https://overthewire.org)
+&nbsp;
+[![PortSwigger](https://img.shields.io/badge/PortSwigger-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net/web-security)
+
+</div>
+
+---
+
 ## `$ ifconfig --contacts`
 
 <div align="center">
@@ -320,6 +337,7 @@ $ uptime
   🎯  Builds frameworks for fun — because why not?
   🐧  Compiled a custom Linux kernel before breakfast (once)
   📦  69 repos in < 1 year — still counting
+  🛡️  Spends weekends hunting flags and solving wargames
 ```
 
 ---
